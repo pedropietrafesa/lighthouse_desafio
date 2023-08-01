@@ -67,18 +67,17 @@ Algumas hipóetes foram levantandas no decorrer da análise exploratória dos da
 * Os carros anunciados em cidades do interior e que já foram trocados anteriormente são mais caros em média do que os da capital.
 * Há diferença média de preços nos carros das marcas populares para as cores branco, prata e preto.
 
-Para responder as perguntas do cliente, testar as hipóteses levantadas e precificar os carros o projeto utilizou análise de dados descritiva, com medidas de tendência central, de variância e correlações para as variáveis numéricas. No caso das variáveis categóricas, tabelas de frequência. No caso da visualização dos dados foram utilizados histogramas, gráficos de barras, boxplots, gráficos de dispersão,  lollipop e de distribuição dos valores faltantes por coluna. Nos testes hipóteses, Mann–Whitney e ANOVA  
+Para responder as perguntas do cliente, testar as hipóteses levantadas e precificar os carros o projeto utilizou análise de dados descritiva, com medidas de tendência central, de variância e correlações para as variáveis numéricas. No caso das variáveis categóricas, tabelas de frequência. No caso da visualização dos dados foram utilizados histogramas, gráficos de barras, boxplots, gráficos de dispersão,  lollipop e de distribuição dos valores faltantes por coluna. Nos testes hipóteses, Mann–Whitney e ANOVA foram empregados para verificar se ocorreu diferenças significativas das médias entre duas, ou entre três ou mais amostras. Na proposta do melhor modelo de precificação foram testados, regressão linear, _Random Forest_, _Gradient Boosting_, _Extra Trees Regressor_ e XGBoost.
 
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+Dois desafios o banco de dados nos trouxe. O primeiro, oito variáveis _features_, categóricas, com mais de 25% de dados faltantes. O segundo, três variáveis _features_ com mais de 400 categorias, sendo que a variável "versões" possui 1916 diferentes categorias.  
 
-## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+## Requisitos deste projeto
+
+- Análise Descritiva/Análise Exploratória (EDA)
+- Limpeza dos Dados 
+- Modelagem Estatística
+- Relatório
 
 ## Getting Started
 
