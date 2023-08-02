@@ -1,6 +1,6 @@
 # Precificação de Veículos 
 
-[![NPM](https://img.shields.io/npm/1/react)](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/LICENSE)
 
 Este trabalho fez parte do desafio para Cientistas de Dados do projeto Lighthouse 2023-9 da [Indicium](https://indicium.tech).
 
