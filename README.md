@@ -1,5 +1,7 @@
 # Precificação de Veículos 
 
+[![NPM](https://img.shields.io/npm/1/react)](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/LICENSE)
+
 Este trabalho fez parte do desafio para Cientistas de Dados do projeto Lighthouse 2023-9 da [Indicium](https://indicium.tech).
 
 #### Status do Projeto: [Completo]
@@ -81,13 +83,12 @@ Dois desafios o banco de dados nos trouxe. O primeiro, oito variáveis _features
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
+1. Caso deseje, há a possibilidade de clonar este repositório (veja [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. O download do banco de dados de treino pode ser realizado neste ([link](https://raw.githubusercontent.com/pedropietrafesa/lighthouse_desafio/main/cars_train.csv)).
+3.  O download do banco de dados de teste pode ser realizado neste ([link](https://raw.githubusercontent.com/pedropietrafesa/lighthouse_desafio/main/cars_test.csv)).
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+4. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+5. etc...
 
 *If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
 
@@ -99,18 +100,9 @@ Dois desafios o banco de dados nos trouxe. O primeiro, oito variáveis _features
 * [Blog Post](link)
 
 
-## Contributing DSWG Members
+## Membro do Projeto
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
+**(Contato) : [Pedro Araújo Pietrafesa](https://github.com/[pedropietrafesa])(@pedropietrafesa)**
 
-#### Other Members:
 
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
