@@ -89,16 +89,11 @@ Dois desafios o banco de dados nos trouxe. O primeiro, oito variáveis _features
     
 4. O script com as análises das estatísticas pode ser aberto [aqui](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/relatório_análise_univariada.ipynb)
 
-5. 4. O script com a EDA pode ser aberto [aqui](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/EDA.ipynb)
+5. O script com a EDA pode ser aberto [aqui](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/EDA.ipynb)
+
+6. O script com o modelo pode ser aberto [aqui](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/precificacao.ipynb)
 
 
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
 
 ## Membro do Projeto
