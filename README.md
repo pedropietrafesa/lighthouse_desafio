@@ -87,10 +87,11 @@ Dois desafios o banco de dados nos trouxe. O primeiro, oito variáveis _features
 2. O download do banco de dados de treino pode ser realizado neste ([link](https://raw.githubusercontent.com/pedropietrafesa/lighthouse_desafio/main/cars_train.csv)).
 3.  O download do banco de dados de teste pode ser realizado neste ([link](https://raw.githubusercontent.com/pedropietrafesa/lighthouse_desafio/main/cars_test.csv)).
     
-4. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-5. etc...
+4. O script com as análises das estatísticas pode ser aberto [aqui](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/relatório_análise_univariada.ipynb)
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+5. 4. O script com a EDA pode ser aberto [aqui](https://github.com/pedropietrafesa/lighthouse_desafio/blob/main/EDA.ipynb)
+
+
 
 5. Follow setup [instructions](Link to file)
 
